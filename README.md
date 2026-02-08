@@ -1,6 +1,6 @@
 # NASA Exoplanets Research App
 
-professional React application that displays NASA exoplanet data with WebGL background effects and gradient text animations. The app integrates with a Python web scraper to fetch real-time data from NASA's exoplanet archive.
+professional React application that displays NASA exoplanet data with WebGL background effects and gradient text animations. The app integrates with a Python web scraper to fetch real-time data from NASA's exoplanet .
 
 ## Features
 
